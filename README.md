@@ -7,4 +7,4 @@ Interaktivlik: Davlatlar va tajriba yillari bo'yicha Slicer (filtrlar) qo'shildi
 Mana bu yerda men yaratgan interaktiv vizualizatsiya tasvirlangan:
 📁 Loyiha fayllari:
 job_salary_prediction_dataset.csv — Xom ma'lumotlar.
-job_salary_report.png — Tahlil natijasi (Rasm).
+job_salary_report.png — Tahlil natijasi.
