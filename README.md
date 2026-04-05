@@ -15,5 +15,5 @@ Ushbu loyihada 250,000 dan ortiq ma'lumotlar tahlil qilinib, kasblar va ish tajr
 
 
 📁 Loyiha fayllari:
-* job_salary_prediction_dataset.csv — Xom ma'lumotlar.
+* job_salary_prediction_dataset.csv — Ma'lumotlar.
 * job_salary_report.png — Tahlil natijasi (Rasm).
